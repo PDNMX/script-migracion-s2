@@ -269,8 +269,8 @@ La nueva estructura JSON (v1.1) redefine y reorganiza los campos:
     "nombres": "Ana María",
     "primerApellido": "Rodríguez",
     "segundoApellido": "Gómez",
-    "curp": "ROGA680519MDFMRN09",
-    "rfc": "ROGA680519ABC",
+    "curp": "GODM560910HDFRRN09",
+    "rfc": "GODE-560910-NR9",
     "puesto": {
       "nombre": "Subsecretario",
       "nivel": "SUBSECRETARIO"
@@ -385,8 +385,8 @@ Las contribuciones son bienvenidas. Para contribuir:
 
 ## Licencia
 
-Este proyecto está licenciado bajo [especificar licencia] - ver archivo LICENSE para más detalles.
+Este proyecto está licenciado bajo MIT - ver archivo LICENSE para más detalles.
 
 ## Contacto
 
-Para dudas o sugerencias, contactar a [correo o información de contacto].
+Para dudas o sugerencias, contactar a pdn@sesna.gob.mx.
