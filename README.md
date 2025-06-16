@@ -2,7 +2,7 @@
 
 ## 📋 Descripción
 
-Este repositorio contiene un script de Node.js para convertir archivos JSON de la versión 1 a la versión 2 de acuerdo al nuevo formato estándar del Sistema de los servidores públicos que intervengan en procedimientos de contrataciones públicas, clasificando automáticamente los datos por tipo de procedimiento y generando archivos organizados por categoría.
+Este repositorio contiene un script de Node.js para convertir archivos JSON de la versión 1 a la versión 1.1 de acuerdo al nuevo formato estándar del Sistema de los servidores públicos que intervengan en procedimientos de contrataciones públicas, clasificando automáticamente los datos por tipo de procedimiento y generando archivos organizados por categoría.
 
 ## 🚀 Características
 
@@ -671,16 +671,3 @@ El script genera los siguientes archivos en el directorio destino:
 6. **Ámbitos públicos:** EJECUTIVO/LEGISLATIVO/JUDICIAL
 7. **UUIDs:** Generación automática para objetos sin ID
 8. **Estructura específica:** Según tipo de procedimiento detectado
-
-## 🎯 Ejemplo de Ejecución
-
-```bash
-$ node converter.js ./datos_origen ./datos_destino
-
-🔄 INICIANDO CONVERSIÓN DE ESTRUCTURA DE DATOS
-
-📂 Directorio origen: /home/usuario/datos_origen
-📂 Directorio destino: /home/usuario/datos_destino
-
-📖
-```
